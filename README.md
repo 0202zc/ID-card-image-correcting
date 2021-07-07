@@ -12,7 +12,7 @@
 
 - Python 3.6
 - PyQt5 5.15.4
-- OpenCV 4.3
+- OpenCV 4.3、opencv_python 4.3
 - Numpy 1.14.3
 
  #### Step
