@@ -1,5 +1,5 @@
 # ID-card-image-correcting
-### 介绍
+### Introduction
 
 - 基于 OpenCV 的身份证图像矫正软件
 - 给一个简单背景下的含有身份证的照片，对其所产生的几何畸变进行**矫正**，使处理后的照片几何尺寸的比例关系接近于真实身份证的几何尺寸比例关系。
@@ -18,6 +18,5 @@
  #### Step
 
 1. clone本项目到本地
-2. 安装环境，在 `ID-card-image-correcting\main`文件夹下执行`pip install -r requirements.txt`
-3. 运行 `python main_window.py`
-
+2. 安装环境，在 `ID-card-image-correcting\main` 文件夹下执行 `pip install -r requirements.txt`
+3. 执行命令 `python main_window.py`
